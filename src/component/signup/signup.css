@@ -1,0 +1,31 @@
+.inp{
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid lightgrey;
+    width: 100%;
+    transition: .5s;
+    font-size: 1em;
+    font-weight: bold;
+}
+.inp:focus{
+    border-bottom: 2px solid #B57E2C;
+    /* box-shadow: 0 10px 15px lightgrey; */
+}
+.submitBtn{
+    background-color: #B57E2C;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 12px lightgrey;
+}
+.lab{
+    display: block;
+    text-align: left;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: .9em;
+    color: #B57E2C;
+}

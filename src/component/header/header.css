@@ -1,0 +1,11 @@
+.nav-item{
+    font-weight: bold;
+}
+.donateBtn{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    color: #B57E2C;
+    background-color: white;
+}
