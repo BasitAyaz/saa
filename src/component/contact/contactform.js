@@ -38,16 +38,15 @@ export default class ContactForm extends React.Component {
               <img src={logo} width="60%" />
               <div className="font-weight-bold p-3">
                 <i class="fas fa-envelope-square ico"></i>
-                <p> info@saa.com</p> 
+                <p> info@saa.com</p>
               </div>
               <div className="font-weight-bold p-3">
                 <i class="fab fa-whatsapp-square ico"></i>
-                <p> 03000000</p> 
+                <p> 03000000</p>
               </div>
               <div className="font-weight-bold p-3">
                 <i class="fas fa-phone-square ico"></i>
-                <p> 
-                    030000000</p> 
+                <p>030000000</p>
               </div>
             </div>
           </div>

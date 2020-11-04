@@ -1,0 +1,21 @@
+.IMG{
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, .3);
+}
+.color{
+    color: #B57E2C;
+}
+.apply{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    border: 2px solid #B57E2C;
+    color: #B57E2C;
+    font-weight: bold;
+    background-color: transparent;
+    transition: .5s;
+}
+.apply:hover{
+    background-color: #B57E2C;
+    color: white;
+}
