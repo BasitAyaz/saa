@@ -16,19 +16,19 @@ export default class ShortDetail extends React.Component {
             <div className="col-md-6 text-left p-5">
               <h1 className="py-5 color">Female Islamic Education</h1>
               <p>
-                We tech Islamic education for female in every age. If you want
-                to learn Tajweed Quran and Nazra Quran please sign up your
-                account. in this education we will cover Tajweed Quran and
-                Qira,at, Radar, and Islamic knowledge which will help you in
-                your daily life. Only females are allowed. for over every course
-                we deal with only female teachers. your child can also apply in
-                this course in their age group. we give quality education in
+                We teach Islamic education for females of every age. If you want
+                to learn Tajweed Quran and Nazra Quran please sign up for your
+                account. in this education we will cover Tajweed Quran and Qira,
+                at, Radar, and Islamic knowledge which will help you in your
+                daily life. Only females are allowed. for over every course we
+                deal with only female teachers. your child can also apply in
+                this course in their age group. we give quality education at a
                 very minimal price fee.
               </p>
-              <button className='apply'>Apply</button>
+              <button className="apply">Apply</button>
             </div>
             <div className="col-md-6 p-5">
-              <img className='IMG' src={female} width="100%" />
+              <img className="IMG" src={female} width="100%" />
             </div>
           </div>
         </div>

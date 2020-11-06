@@ -53,6 +53,11 @@ export default class Header extends React.Component {
                     Contact Us
                   </a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/student">
+                    Student Login
+                  </a>
+                </li>
               </ul>
               <form class="form-inline my-2 my-lg-0">
                 <button className="donateBtn">Donate</button>
