@@ -1,4 +1,6 @@
 import React from "react";
+import logo from "../images/logo.png";
+import AdminScreen from '../component/admin/adminscreen'
 
 export default class Admin extends React.Component {
   constructor(props) {
@@ -7,8 +9,12 @@ export default class Admin extends React.Component {
   }
   render() {
     return (
-      <div>
-          <h1>Admin</h1>
+      <div style={{
+        backgroundColor:'#fff5e6',
+        margin:'0',
+        padding:'0'
+      }}>
+        <AdminScreen />
       </div>
     );
   }
